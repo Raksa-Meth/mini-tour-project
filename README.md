@@ -1,1 +1,2 @@
-## React Projects Starter APP
+## Mini React Projects
+Preview here https://mini-tour-react.netlify.app
